@@ -10,4 +10,4 @@ License:
 
 * ARTchives data are released under a [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * Wikidata data are reused and released under the original license, [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
-* Repository code are released under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)
+* Repository code is released under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/)
