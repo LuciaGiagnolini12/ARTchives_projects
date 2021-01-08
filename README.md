@@ -1,4 +1,4 @@
-# ARTchives Thesis
+# ARTchives: data driven historiography of art history
 
 ARTchives website: http://artchives.fondazionezeri.unibo.it
 
